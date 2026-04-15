@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-App URL: `http://localhost:5173`
+App URL: `http://localhost:(port u choose)`
 
 ## How to bridge
 1. Open the app.
