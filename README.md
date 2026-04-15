@@ -19,7 +19,7 @@ References:
 Source: [Connect to Arc](https://docs.arc.network/arc/references/connect-to-arc)
 
 ## Prerequisites
-- Node.js 18+
+- Node.js v22+
 - Browser wallet (MetaMask)
 - Wallet funded with:
   - Sepolia ETH for gas
