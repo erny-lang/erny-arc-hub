@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import Header from "./components/Header";
 import SendTab from "./components/SendTab";
 import BridgeTab from "./components/BridgeTab";
@@ -85,6 +86,7 @@ export default function App() {
           </a>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
